@@ -16,6 +16,3 @@ This is my personal portfolio website built using HTML and CSS.
 
 ## Purpose
 Created to showcase my skills and projects as a beginner web developer.
-
-## Live Website
-https://huzaifafaizan1231-netizen.github.io/Portfolio/
